@@ -1,0 +1,41 @@
+employee_id,name,department,role,email,bank_account,approval_limit_inr
+EMP-001,Vihaan Pillai,Finance,Junior Accountant,vihaan.pillai1@vistara-tech.com,50100494990595,50000.0
+EMP-002,Dhruv Bhat,Finance,Junior Accountant,dhruv.bhat2@vistara-tech.com,50100727631225,50000.0
+EMP-003,Ayaan Patel,Finance,Junior Accountant,ayaan.patel3@vistara-tech.com,50100573831080,50000.0
+EMP-004,Zara Menon,Finance,Junior Accountant,zara.menon4@vistara-tech.com,50100785025730,50000.0
+EMP-005,Priya Pillai,Finance,Junior Accountant,priya.pillai5@vistara-tech.com,50100561903915,50000.0
+EMP-006,Reyansh Agarwal,Finance,Junior Accountant,reyansh.agarwal6@vistara-tech.com,50100505347343,50000.0
+EMP-007,Ananya Mehta,Finance,Junior Accountant,ananya.mehta7@vistara-tech.com,50100264294672,50000.0
+EMP-008,Trisha Pillai,Finance,Junior Accountant,trisha.pillai8@vistara-tech.com,50100679478607,50000.0
+EMP-009,Aaryan Agarwal,Accounting,Accounts Executive,aaryan.agarwal9@vistara-tech.com,50100590886206,50000.0
+EMP-010,Dhruv Bose,Accounting,Accounts Executive,dhruv.bose10@vistara-tech.com,50100304514849,50000.0
+EMP-011,Vihaan Gupta,Accounting,Accounts Executive,vihaan.gupta11@vistara-tech.com,50100899100857,50000.0
+EMP-012,Aditya Bhat,Accounting,Accounts Executive,aditya.bhat12@vistara-tech.com,50100844868053,50000.0
+EMP-013,Shaurya Chopra,Accounting,Accounts Executive,shaurya.chopra13@vistara-tech.com,50100248706171,50000.0
+EMP-014,Saanvi Kulkarni,Accounting,Accounts Executive,saanvi.kulkarni14@vistara-tech.com,50100419073370,50000.0
+EMP-015,Aditya Das,Accounting,Accounts Executive,aditya.das15@vistara-tech.com,50100501118737,50000.0
+EMP-016,Tanvi Deshmukh,Procurement,Procurement Officer,tanvi.deshmukh16@vistara-tech.com,50100800545146,50000.0
+EMP-017,Saanvi Kumar,Procurement,Procurement Officer,saanvi.kumar17@vistara-tech.com,50100427515427,50000.0
+EMP-018,Kabir Chatterjee,Procurement,Procurement Officer,kabir.chatterjee18@vistara-tech.com,50100591912552,50000.0
+EMP-019,Muhammad Menon,Procurement,Procurement Officer,muhammad.menon19@vistara-tech.com,50100930275054,50000.0
+EMP-020,Riya Mehta,Procurement,Procurement Officer,riya.mehta20@vistara-tech.com,50100469765318,50000.0
+EMP-021,Advik Hegde,Procurement,Procurement Officer,advik.hegde21@vistara-tech.com,50100433413734,50000.0
+EMP-022,Vihaan Bose,Procurement,Sourcing Executive,vihaan.bose22@vistara-tech.com,50100816111976,50000.0
+EMP-023,Sai Bose,Procurement,Sourcing Executive,sai.bose23@vistara-tech.com,50100216929354,50000.0
+EMP-024,Pooja Bose,Procurement,Sourcing Executive,pooja.bose24@vistara-tech.com,50100397176699,50000.0
+EMP-025,Krishna Malhotra,Procurement,Sourcing Executive,krishna.malhotra25@vistara-tech.com,50100702832594,50000.0
+EMP-026,Trisha Joshi,Finance,Finance Manager,trisha.joshi26@vistara-tech.com,50100244619345,500000.0
+EMP-027,Shreya Chopra,Finance,Finance Manager,shreya.chopra27@vistara-tech.com,50100730238590,500000.0
+EMP-028,Vihaan Nair,Finance,Finance Manager,vihaan.nair28@vistara-tech.com,50100791059522,500000.0
+EMP-029,Shreya Joshi,Finance,Finance Manager,shreya.joshi29@vistara-tech.com,50100824287920,500000.0
+EMP-030,Shreya Mehta,Finance,Finance Manager,shreya.mehta30@vistara-tech.com,50100908278862,500000.0
+EMP-031,Shaurya Singh,Procurement,Procurement Manager,shaurya.singh31@vistara-tech.com,50100714245952,500000.0
+EMP-032,Khushi Iyer,Procurement,Procurement Manager,khushi.iyer32@vistara-tech.com,50100279917381,500000.0
+EMP-033,Sara Sharma,Procurement,Procurement Manager,sara.sharma33@vistara-tech.com,50100808231938,500000.0
+EMP-034,Samiksha Deshmukh,Finance,Senior Finance Manager,samiksha.deshmukh34@vistara-tech.com,50100524410429,2500000.0
+EMP-035,Priya Reddy,Finance,Senior Finance Manager,priya.reddy35@vistara-tech.com,50100600082264,2500000.0
+EMP-036,Gauri Sharma,Finance,Senior Finance Manager,gauri.sharma36@vistara-tech.com,50100225817298,2500000.0
+EMP-037,Krishna Patel,Executive,VP Finance,krishna.patel37@vistara-tech.com,50100495652216,2500000.0
+EMP-038,Navya Deshmukh,Executive,VP Finance,navya.deshmukh38@vistara-tech.com,50100523986584,2500000.0
+EMP-039,Sneha Malhotra,Executive,Chief Financial Officer,sneha.malhotra39@vistara-tech.com,50100171277663,100000000.0
+EMP-040,Saanvi Malhotra,Executive,Director of Operations,saanvi.malhotra40@vistara-tech.com,50100671246487,100000000.0

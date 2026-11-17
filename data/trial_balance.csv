@@ -1,0 +1,25 @@
+account_code,account_name,debit_inr,credit_inr
+1010,Cash and Bank Balances,621219861.58,466838749.68
+1020,Accounts Receivable,0.0,0.0
+1050,Office & IT Equipment,1812961.8,0.0
+2010,Accounts Payable,0.0,0.0
+2020,GST Payable,0.0,0.0
+2030,TDS Payable,0.0,0.0
+3010,Share Capital,0.0,5000000.0
+3020,Retained Earnings,0.0,2500000.0
+4010,Software License & SaaS Revenue,0.0,312984746.89
+4020,Professional IT Services Revenue,0.0,300635114.69
+4030,Cloud Consulting Revenue,0.0,0.0
+4040,Other Operating Income,0.0,0.0
+5010,Cloud Infrastructure & Hosting,256287132.99,0.0
+5020,Third-Party Software & API Licenses,31964663.26,0.0
+5030,Subcontractor & Freelancer Fees,0.0,0.0
+6010,Office Rent & Facilities,85464395.47,0.0
+6020,Employee Salaries & Wages,7161412.33,0.0
+6030,Legal & Professional Retainers,26078834.57,0.0
+6040,Software & SaaS Subscriptions,36572810.02,0.0
+6050,Office Supplies & Consumables,6721935.65,0.0
+6060,Travel & Conveyance,4725055.84,0.0
+6070,Marketing & Advertising,4281127.92,0.0
+6080,Electricity & Utilities,3168419.83,0.0
+6090,Repairs & Maintenance,2600000.0,0.0
